@@ -15,7 +15,9 @@
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  background-image: url('/fonstart.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
+
